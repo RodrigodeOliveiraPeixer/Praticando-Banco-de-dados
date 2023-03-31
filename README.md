@@ -29,3 +29,12 @@ passo 1 - Consultando no banco de dados todas as mulheres da tabela
 <img src="https://user-images.githubusercontent.com/109769171/229227799-349941fa-2412-413f-9e14-e978152c5d7d.png" width="980px" />
 </div>
 </br>
+
+<br>
+4 - Uma lista com os dados de todas as mulhers que nasceram no Brasil e que têm o seu nome inciiado com a letra J
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229229153-16227a56-dedf-4273-9bf0-29a0eaea5f1c.png" width="980px" />
+</div>
+</br>
