@@ -22,3 +22,8 @@ select * from alunos
 where sexo = 'F' and nacionalidade = 'Brasil' and nome LIKE 'J%'
 order by nome;
 
+5 - Uma lista com o nome e nacionalidade de todos os homens que têm silva no nome, não nasceram no Brasil e pesam menos de 100KG
+
+select nome, nacionalidade from alunos
+where sexo = 'M' and nome LIKE '%silva%' and nacionalidade <> 'Brasil' and peso < 100;
+
