@@ -38,3 +38,12 @@ passo 1 - Consultando no banco de dados todas as mulheres da tabela
 <img src="https://user-images.githubusercontent.com/109769171/229229153-16227a56-dedf-4273-9bf0-29a0eaea5f1c.png" width="980px" />
 </div>
 </br>
+
+<br>
+5 - Uma lista com o nome e nacionalidade de todos os homens que têm silva no nome, não nasceram no Brasil e pesam menos de 100KG
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229233325-e31534b9-9f96-47d8-8fae-185c6836726d.png" width="980px" />
+</div>
+</br>
