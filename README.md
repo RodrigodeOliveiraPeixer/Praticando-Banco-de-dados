@@ -49,11 +49,11 @@ passo 1 - Consultando no banco de dados todas as mulheres da tabela
 </br>
 
 <br>
-6 - Qual é a maior altura entre os alunos homens que moram no brasil?
+6 - Qual é a maior altura entre os alunos homens que moram no brasil?  A pergunta quer saber qual a maior altura entre os homens mas não quer saber quem é o aluno então por isso é apresentado somente o número e não nomes
 </br>
 <br>
 <div>
-<img src="https://user-images.githubusercontent.com/109769171/229263103-2ca35073-d925-4951-833e-90ea100e2b4b.png" width="980px" />
+<img src="https://user-images.githubusercontent.com/109769171/229263157-4fd5b28e-1445-4b31-ac38-30ca1cb1ccd0.png" width="980px" />
 </div>
 </br>
 
