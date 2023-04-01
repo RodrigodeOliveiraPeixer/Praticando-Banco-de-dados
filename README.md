@@ -66,6 +66,15 @@ passo 1 - Consultando no banco de dados todas as mulheres da tabela
 </div>
 </br>
 
+<br>
+8 - Qual é o menor peso entre as alunas mulheres que nasceram fora do Brasil entre 01/jan/1990 e 31/dez/2000??
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229264521-52aec160-52a9-4300-8055-6249c7a54ead.png" width="980px" />
+</div>
+</br>
+
 
 
 
