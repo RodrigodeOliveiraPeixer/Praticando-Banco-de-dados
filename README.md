@@ -57,7 +57,14 @@ passo 1 - Consultando no banco de dados todas as mulheres da tabela
 </div>
 </br>
 
-
+<br>
+7 - Qual é a media de peso dos alunos?
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229263781-6f13819b-5fb7-49b3-a8a0-953af585437c.png" width="980px" />
+</div>
+</br>
 
 
 
