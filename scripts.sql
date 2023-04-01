@@ -39,9 +39,12 @@ select AVG(peso) from alunos
 order by nome;
 
 
+8 - Qual é o menor peso entre as alunas mulheres que nasceram fora do Brasil entre 01/jan/1990 e 31/dez/2000?
 
+select min(peso) from alunos
+where sexo= 'F' and nacionalidade <> 'Brasil' and nascimento >= '1990-01-01' and nascimento <='2000-12-31';
 
-
+9 - 
 
 
 
