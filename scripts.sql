@@ -32,3 +32,17 @@ where sexo = 'M' and nome LIKE '%silva%' and nacionalidade <> 'Brasil' and peso 
 select max(altura) from alunos
 where sexo = 'M' and nacionalidade = 'Brasil'
 order by nome;
+
+7 - Qual é a media de peso dos alunos?
+
+select AVG(peso) from alunos
+order by nome;
+
+
+
+
+
+
+
+
+
