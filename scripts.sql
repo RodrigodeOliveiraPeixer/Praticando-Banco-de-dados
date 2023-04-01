@@ -44,8 +44,9 @@ order by nome;
 select min(peso) from alunos
 where sexo= 'F' and nacionalidade <> 'Brasil' and nascimento >= '1990-01-01' and nascimento <='2000-12-31';
 
-9 - 
+9 - Quantos alunas mulheres tem mais de 1.90 de altura?
 
-
+select COUNT(altura) from alunos
+where sexo= 'F' and altura > '1.90';
 
 
