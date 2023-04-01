@@ -47,3 +47,19 @@ passo 1 - Consultando no banco de dados todas as mulheres da tabela
 <img src="https://user-images.githubusercontent.com/109769171/229233325-e31534b9-9f96-47d8-8fae-185c6836726d.png" width="980px" />
 </div>
 </br>
+
+<br>
+6 - Qual é a maior altura entre os alunos homens que moram no brasil?
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229263103-2ca35073-d925-4951-833e-90ea100e2b4b.png" width="980px" />
+</div>
+</br>
+
+
+
+
+
+
+
