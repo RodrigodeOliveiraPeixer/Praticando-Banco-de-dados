@@ -75,6 +75,15 @@ passo 1 - Consultando no banco de dados todas as mulheres da tabela
 </div>
 </br>
 
+<br>
+9 - Quantos alunas mulheres tem mais de 1.90 de altura?
+</br>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/109769171/229265113-348cfbf6-007e-400a-bc65-a6f50c9860c6.png" width="980px" />
+</div>
+</br>
+
 
 
 
