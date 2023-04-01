@@ -29,6 +29,6 @@ where sexo = 'M' and nome LIKE '%silva%' and nacionalidade <> 'Brasil' and peso 
 
 6 - Qual é a maior altura entre os alunos homens que moram no brasil?
 
-select nome, nacionalidade, max(altura) from alunos
+select max(altura) from alunos
 where sexo = 'M' and nacionalidade = 'Brasil'
 order by nome;
